@@ -1,5 +1,6 @@
 # NetworkMonitoring-Library
 
+The latest gradle version is not supported by jitpack.. will be shifting the library.
 ## Dependencies
 Add to build.gradle project level file
 ``` Gradle
